@@ -10,7 +10,6 @@
 
 * [Le Nen](mecaniques/nen.md)
 * [Greed Island](mecaniques/greed-island.md)
-* [Statues du Nen](mecaniques/statues.md)
 
 ## Camps
 

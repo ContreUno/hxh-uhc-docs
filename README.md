@@ -16,7 +16,6 @@ L'objectif de chaque partie est de gagner avec son camp. À chaque rôle corresp
 
 - [Le Nen](mecaniques/nen.md)
 - [Greed Island](mecaniques/greed-island.md)
-- [Statues du Nen](mecaniques/statues.md)
 
 ## Recommandations
 
