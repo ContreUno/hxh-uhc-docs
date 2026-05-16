@@ -13,9 +13,9 @@ La zone contient :
 Les PNJ marchands acceptent les **Jennys** (lingots d'or NBT). Liste :
 
 - **Armurier**
-  > Vend : épée diamant Sharpness II (5000J), arc Power II (3000J), casque diamant (4000J).
+  > Vend : épée diamant Sharpness I (5000J), arc Power I (3000J), casque diamant (4000J).
 - **Apothicaire**
-  > Vend : potion Strength II 1:30 (2000J), potion Regeneration II 1:00 (3000J), potion Speed II 3:00 (1500J).
+  > Vend : potion Strength I 1:30 (2000J), potion Regeneration I 1:00 (3000J), potion Speed I 3:00 (1500J).
 - **Voyante**
   > Vend : révélation du **type de Nen** d'un joueur (1500J), révélation du **rôle** d'un joueur (5000J).
 - **Cartier**
@@ -27,9 +27,9 @@ Les PNJ marchands acceptent les **Jennys** (lingots d'or NBT). Liste :
 
 À 65 minutes de jeu, **un objet rare** est mis en vente. La liste des objets possibles :
 
-> - **Diamond Sword Sharpness IV** ;
-> - **Diamond Helmet Protection III** ;
-> - **Bow Power IV Infinity** ;
+> - **Diamond Sword Sharpness I** ;
+> - **Diamond Helmet Protection I** ;
+> - **Bow Power I Infinity** ;
 > - **2x Golden Apple Notch** ;
 > - **Globe de Nen** _(débloque +1 capacité de rôle)_ ;
 > - **Œil de Meruem** _(donne +5♥ permanents, unique)_.

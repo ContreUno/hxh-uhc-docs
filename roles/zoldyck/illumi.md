@@ -10,7 +10,7 @@ Il est nécessairement de type de Nen **Manipulation**.
   > Il connaît l'identité de **tous les membres** de la Famille Zoldyck dès l'annonce des rôles.
 
 - **Arc d'Aiguilles**
-  > Il obtient à l'annonce des rôles un **arc Power II** et **16 flèches** _(Aiguilles Nen)_.
+  > Il obtient à l'annonce des rôles un **arc Power I** et **16 flèches** _(Aiguilles Nen)_.
 
 ## Actifs
 

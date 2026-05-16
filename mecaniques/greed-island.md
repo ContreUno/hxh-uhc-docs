@@ -8,7 +8,7 @@
   > +1♥ permanent. **Mais −2♥** courants immédiats.
 
 - **Gazelle** _(commun)_
-  > **Speed III** pendant 30 secondes.
+  > **Speed I** pendant 30 secondes.
 
 - **Predator** _(commun)_
   > Boussole pisteur sur un joueur visible dans un rayon de 30 blocs pendant **3 minutes**.
@@ -29,7 +29,7 @@
   > Tire un joueur visé à **20 blocs** vers soi.
 
 - **Time Stop** _(ultra-rare)_
-  > Tous les ennemis à moins de **10 blocs** sont gelés (Slow VI, Jump Boost négatif) pendant **3 secondes**.
+  > Tous les ennemis à moins de **10 blocs** sont gelés (Slow I, Jump Boost négatif) pendant **3 secondes**.
 
 - **Eye of Reality** _(ultra-rare)_
   > Révèle le rôle de **2 joueurs aléatoires** vivants.

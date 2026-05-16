@@ -29,7 +29,7 @@ Le type **Spécialisation** est réservé aux rôles canoniques de la série : *
   > **Contrepartie** : il ne peut pas régénérer naturellement pendant la durée de l'effet.
 
 - **Matérialisation**
-  > Le joueur obtient à l'annonce des rôles une **épée en fer Sharpness II**.
+  > Le joueur obtient à l'annonce des rôles une **épée en fer Sharpness I**.
   > **Contrepartie** : il ne peut pas enchanter d'épée pour le reste de la partie.
 
 - **Spécialisation**

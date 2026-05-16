@@ -21,11 +21,11 @@ Il est nécessairement de type de Nen **Spécialisation**.
 ## Actifs
 
 - **Holy Chain** - `Clic droit` - _3x/partie, 1x/15min_
-  > Il marque un membre de la Brigade dans un rayon de **15 blocs**. La cible subit **Slow II** et **Wither I** pendant **30 secondes**, peu importe sa distance.
+  > Il marque un membre de la Brigade dans un rayon de **15 blocs**. La cible subit **Slow I** et **Wither I** pendant **30 secondes**, peu importe sa distance.
 
 - **Dolchain** - `/hxh dolchain` - _1x/partie_
   > À partir de **1h de jeu**, **tous les membres** vivants de la Brigade Fantôme subissent **4♥** de dégâts simultanément, peu importe leur distance.
-  > **Contrepartie** : Kurapika tombe à **5♥** de vie immédiatement et subit **Mining Fatigue II** pendant 60 secondes (sa rage le vide).
+  > **Contrepartie** : Kurapika tombe à **5♥** de vie immédiatement et subit **Mining Fatigue I** pendant 60 secondes (sa rage le vide).
 
 ## Vœu Spécifique
 

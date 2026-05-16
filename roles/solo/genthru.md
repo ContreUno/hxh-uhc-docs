@@ -18,7 +18,7 @@ Genthru gagne s'il **déclenche 8 explosions** de **Little Flower** en touchant 
 
 - **Little Flower** - `Sneak + Clic droit avec redstone` - _1x/2min_
   > Il déclenche le décompte (**5 secondes**) sur **toutes les bombes posées**. À l'explosion, chaque bombe inflige **5♥** de dégâts dans un rayon de **3 blocs**.
-  > **Contrepartie** : pendant les 5 secondes de décompte, Genthru subit **Slowness II** et ne peut pas poser de nouvelle bombe.
+  > **Contrepartie** : pendant les 5 secondes de décompte, Genthru subit **Slowness I** et ne peut pas poser de nouvelle bombe.
 
 - **Bombe Suicide** - `Déclenchement automatique à la mort` - _1x/partie_
   > À sa mort, **toutes les bombes encore en place** explosent immédiatement.

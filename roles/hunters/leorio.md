@@ -20,4 +20,4 @@
 
 - **Diplôme** - `/hxh diplome` - _1x/partie_
   > À partir de **45 minutes de jeu**, il regagne **toutes ses charges** de Carotte de Soin et Remote Punch.
-  > **Contrepartie** : il subit **Weakness II** et **Slowness I** pendant **2 minutes** (épuisement médical).
+  > **Contrepartie** : il subit **Weakness I** et **Slowness I** pendant **2 minutes** (épuisement médical).

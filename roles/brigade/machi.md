@@ -20,4 +20,4 @@
 
 - **Liaison Cosmique** - `/hxh liaison` - _1x/partie_
   > À partir de **1h de jeu**, sa prochaine résurrection ramène le joueur à **vie complète** et lui octroie **Strength I** pendant 60 secondes.
-  > **Contrepartie** : Machi subit **Slowness II** et **Weakness II** pendant 2 minutes (transfert d'énergie).
+  > **Contrepartie** : Machi subit **Slowness I** et **Weakness I** pendant 2 minutes (transfert d'énergie).

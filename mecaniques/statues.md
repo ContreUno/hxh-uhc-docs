@@ -27,7 +27,7 @@ Pour effectuer un rituel, il faut être **debout sur le piédestal** (à moins d
 
 - **Bénédiction Majeure** - `/hxh blessing major` - _1x/joueur/partie_
   > Le joueur dépense **5000 Jennys** et regagne **toutes ses charges** de son actif principal.
-  > **Contrepartie** : il subit **Slowness II** pendant 60 secondes (épuisement rituel).
+  > **Contrepartie** : il subit **Slowness I** pendant 60 secondes (épuisement rituel).
 
 ## Statue Sacrée
 

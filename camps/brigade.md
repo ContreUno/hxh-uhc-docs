@@ -20,5 +20,5 @@ La **Brigade Fantôme** (ou **Ryodan**) est un groupe de voleurs de classe A dir
 - Les membres de la Brigade Fantôme **connaissent l'identité** des autres membres de la Brigade dès l'annonce des rôles.
 - Les membres de la Brigade peuvent se parler dans un **chat privé** avec `/hxh ryodan [Message]`.
 - À la **mort** d'un membre de la Brigade, tous les autres reçoivent **Strength I** pendant 60 secondes.
-- À la **mort** de **Chrollo**, l'effet est doublé (Strength II pendant 120 secondes).
+- À la **mort** de **Chrollo**, l'effet est doublé (Strength I pendant 120 secondes).
 - [Machi](../roles/brigade/machi.md) peut **ressusciter** un membre de la Brigade mort sur le lieu exact de sa mort, **3 fois par partie**.

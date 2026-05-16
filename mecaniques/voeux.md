@@ -9,7 +9,7 @@ Le Vœu se prononce avec la commande `/hxh voeu` devant une Statue. La GUI affic
 - **Vœu du Solitaire**
   > **Restriction** : ne pas s'approcher à moins de **5 blocs** d'un allié.
   > **Bonus** : **+2♥ permanents** ainsi que l'effet **Speed I** permanent.
-  > **Rupture** : **Wither V** pendant 30 secondes et perte du bonus.
+  > **Rupture** : **Wither I** pendant 30 secondes et perte du bonus.
 
 - **Vœu de l'Affamé**
   > **Restriction** : ne pas consommer de nourriture.

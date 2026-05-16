@@ -17,7 +17,7 @@
 
 - **Forme Berserk** - `Déclenchement automatique` - _1x/3min_
   > Lorsque sa Rage atteint **15**, il obtient **Strength I** et **Resistance I** pendant **15 secondes**.
-  > **Contrepartie** : à la fin du timer, il subit **Slowness II** pendant 20 secondes (effondrement).
+  > **Contrepartie** : à la fin du timer, il subit **Slowness I** pendant 20 secondes (effondrement).
 
 - **Rage Blast** - `Déclenchement automatique` - _1x/5min_
   > Lorsque sa Rage atteint **20**, il déclenche une AoE : tous les joueurs ennemis dans un rayon de **5 blocs** subissent **6♥** de dégâts et sont repoussés. La Rage est remise à zéro.

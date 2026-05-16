@@ -16,5 +16,5 @@
   > Il **échange instantanément** sa position avec celle d'un joueur visé dans un rayon de **6 blocs**.
 
 - **Chambre de Knov** - `/hxh chambre` - _1x/partie_
-  > À partir de **45 minutes de jeu**, il entre dans sa chambre dimensionnelle pendant **8 secondes**. Il est **invisible** et reçoit **Resistance III** (mais reste tuable). À la fin du timer, il choisit sa position de réapparition dans un rayon de **30 blocs**.
-  > **Contrepartie** : il ne peut ni se déplacer ni attaquer pendant les 8 secondes (Slowness V + Mining Fatigue III). Après réapparition, il subit **Weakness I** pendant 60 secondes.
+  > À partir de **45 minutes de jeu**, il entre dans sa chambre dimensionnelle pendant **8 secondes**. Il est **invisible** et reçoit **Resistance I** (mais reste tuable). À la fin du timer, il choisit sa position de réapparition dans un rayon de **30 blocs**.
+  > **Contrepartie** : il ne peut ni se déplacer ni attaquer pendant les 8 secondes (Slowness I + Mining Fatigue I). Après réapparition, il subit **Weakness I** pendant 60 secondes.

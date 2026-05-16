@@ -17,7 +17,7 @@ Il est nécessairement de type de Nen **Manipulation**.
 - **Plantation d'Antenne** - `Sneak + Clic droit` - _2x/partie_
   > Il plante une antenne sur un joueur visé à **4 blocs maximum**. La cible subit :
   > - **Drop forcé** de l'item en main ;
-  > - **Speed II** + **Weakness II** + **Nausea** pendant **4 secondes** ;
+  > - **Speed I** + **Weakness I** + **Nausea** pendant **4 secondes** ;
   > - Une **propulsion aléatoire**.
 
 - **Black Voice à Distance** - `Clic droit` - _1x/partie_

@@ -8,12 +8,12 @@
   > Il connaît l'identité de **tous les membres** de la Brigade Fantôme dès l'annonce des rôles.
 
 - **Katana**
-  > Il obtient à l'annonce des rôles une **épée en fer** enchantée **Sharpness II**.
+  > Il obtient à l'annonce des rôles une **épée en fer** enchantée **Sharpness I**.
 
 ## Actifs
 
 - **Iai** - `Sneak` - _1x/3min_
-  > Tant qu'il est en sneak, il est en **garde Iai** : il bénéficie de **Resistance I** et **Slow IV**. Lorsqu'un joueur s'approche à **4 blocs**, ce joueur subit **10♥** de dégâts immédiats et Nobunaga sort de l'Iai.
+  > Tant qu'il est en sneak, il est en **garde Iai** : il bénéficie de **Resistance I** et **Slow I**. Lorsqu'un joueur s'approche à **4 blocs**, ce joueur subit **10♥** de dégâts immédiats et Nobunaga sort de l'Iai.
   > La garde Iai a une durée maximale de **30 secondes**.
 
 - **Domaine Sphérique** - `/hxh domaine` - _1x/partie_

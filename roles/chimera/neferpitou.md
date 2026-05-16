@@ -17,7 +17,7 @@
 
 - **Marionnette Piégée** - `Clic droit sur joueur mort` - _2x/partie_
   > Sur le lieu de mort d'un joueur (à moins de 3 blocs), elle pose un **ArmorStand piégé** portant le nom de la cible morte.
-  > Tout joueur ennemi qui s'approche à **moins de 2 blocs** de l'ArmorStand subit **3♥** de dégâts et **Slow II** pendant **5 secondes**.
+  > Tout joueur ennemi qui s'approche à **moins de 2 blocs** de l'ArmorStand subit **3♥** de dégâts et **Slow I** pendant **5 secondes**.
   > L'ArmorStand disparaît après 5 minutes.
 
 - **En** - `/hxh en` - _1x/partie_

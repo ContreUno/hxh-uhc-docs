@@ -18,8 +18,8 @@ Il est nécessairement de type de Nen **Renforcement**.
   > Il lance un projectile de Nen qui inflige **3♥** de dégâts au premier joueur touché dans un rayon de **15 blocs**.
 
 - **Jajanken Ciseaux** - `/hxh ciseaux` - _1x/partie_
-  > À partir de **1h de jeu**, il active sa **Forme Adulte**. Pendant **90 secondes**, il obtient les effets **Strength II** et **Speed I**.
-  > **Contrepartie** : à la fin de la durée, il perd définitivement **5♥** de sa vie maximale et subit **Slowness II** pendant 30 secondes.
+  > À partir de **1h de jeu**, il active sa **Forme Adulte**. Pendant **90 secondes**, il obtient les effets **Strength I** et **Speed I**.
+  > **Contrepartie** : à la fin de la durée, il perd définitivement **5♥** de sa vie maximale et subit **Slowness I** pendant 30 secondes.
 
 - **Concentration** - `Clic droit` - _2x/partie_
   > Il connaît la **position exacte** d'un joueur de son choix pendant **30 secondes**.

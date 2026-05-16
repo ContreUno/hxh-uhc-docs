@@ -8,7 +8,7 @@
   > Les **dégâts** infligés par Knuckle au corps à corps ne sont pas appliqués immédiatement : ils sont convertis en **dette** sur la cible. La dette augmente de **+10% par minute** tant qu'elle n'est pas remboursée.
 
 - **Faillite**
-  > Lorsque la dette d'une cible atteint **30 points**, la cible subit automatiquement **Weakness II** et **Blindness** pendant **30 secondes**, et est **désarmée** (drop forcé de son item en main).
+  > Lorsque la dette d'une cible atteint **30 points**, la cible subit automatiquement **Weakness I** et **Blindness** pendant **30 secondes**, et est **désarmée** (drop forcé de son item en main).
 
 ## Actifs
 
