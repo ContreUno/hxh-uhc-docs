@@ -9,7 +9,7 @@ Il est nécessairement de type de Nen **Spécialisation**.
 - **Emperor Time**
   > Ses dégâts contre un membre de la [Brigade Fantôme](../../camps/brigade.md) sont **multipliés par 4**.
 
-- **Voeu des Yeux Écarlates**
+- **Yeux Écarlates**
   > S'il frappe un joueur qui n'est **ni Hunter ni Brigade**, il subit lui-même **2♥** de dégâts.
 
 - **Chaîne du Jugement**
@@ -27,9 +27,3 @@ Il est nécessairement de type de Nen **Spécialisation**.
   > À partir de **1h de jeu**, **tous les membres** vivants de la Brigade Fantôme subissent **4♥** de dégâts simultanément, peu importe leur distance.
   > **Contrepartie** : Kurapika tombe à **5♥** de vie immédiatement et subit **Mining Fatigue I** pendant 60 secondes (sa rage le vide).
 
-## Vœu Spécifique
-
-- **Vœu de la Vengeance Kuruta**
-  > **Restriction** : il jure de tuer **les 8 membres** de la Brigade Fantôme.
-  > **Bonus** : ses dégâts contre la Brigade sont **multipliés par 6** au lieu de 4. Il regagne **+1♥** par membre tué.
-  > **Rupture** : à sa mort, s'il reste un Brigade vivant, il perd sa victoire (devient Spectateur).

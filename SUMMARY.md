@@ -9,9 +9,6 @@
 ## Mécaniques
 
 * [Le Nen](mecaniques/nen.md)
-* [Vœux](mecaniques/voeux.md)
-* [Heavens Arena](mecaniques/heavens-arena.md)
-* [York New](mecaniques/york-new.md)
 * [Greed Island](mecaniques/greed-island.md)
 * [Statues du Nen](mecaniques/statues.md)
 

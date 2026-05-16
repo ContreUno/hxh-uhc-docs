@@ -15,5 +15,5 @@ La **Famille Zoldyck** est une famille d'assassins professionnels de classe inte
 
 - Les Zoldyck **connaissent l'identité** des autres Zoldyck dès l'annonce des rôles.
 - Lorsque deux Zoldyck sont à moins de **5 blocs** l'un de l'autre, ils gagnent tous deux **Resistance I**.
-- **Killua** appartient officiellement aux Hunters mais peut rejoindre le camp Zoldyck via un Vœu Spécifique _(voir [fiche Killua](../roles/hunters/killua.md))_.
+- **Killua** appartient officiellement aux Hunters et n'est pas considéré comme un Zoldyck en jeu, malgré son nom.
 - Les Zoldyck sont **invulnérables au Poison**.

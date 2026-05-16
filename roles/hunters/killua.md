@@ -25,9 +25,3 @@ Il est nécessairement de type de Nen **Transformation**.
   > À partir de **45 minutes de jeu**, il obtient **Speed I** et **Strength I** pendant **45 secondes**.
   > **Contrepartie** : à la fin de la durée, il subit **Slowness I** et **Weakness I** pendant **45 secondes**.
 
-## Vœu Spécifique
-
-- **Vœu du Sang**
-  > **Restriction** : il quitte le camp des Hunters et rejoint la [Famille Zoldyck](../../camps/zoldyck.md). Il rompt son **Lien d'Enfance** avec Gon.
-  > **Bonus** : Resistance I permanent. Il obtient l'identité de tous les Zoldyck.
-  > **Rupture** : impossible (vœu irréversible).

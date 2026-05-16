@@ -17,5 +17,5 @@
   > Cooldown de **10 secondes** entre deux utilisations.
 
 - **Anti-Aspirateur** - `/hxh vol [Pseudo]` - _1x/partie_
-  > À partir de **45 minutes de jeu**, elle **vole 40%** des Jennys d'un joueur visé à **4 blocs maximum**.
+  > À partir de **45 minutes de jeu**, elle **vole un item** au choix dans l'inventaire d'un joueur visé à **4 blocs maximum**.
   > **Contrepartie** : la cible est notifiée du vol et reçoit la **position** de Shizuku pendant 60 secondes.

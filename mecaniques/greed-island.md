@@ -1,53 +1,39 @@
 # Greed Island
 
-**Greed Island** est un événement qui peut être déclenché par un host à n'importe quel moment de la partie, à partir de **30 minutes de jeu**. Une fois déclenché, chaque joueur vivant reçoit une **Carte Spell** aléatoire dans son inventaire.
+À partir de **30 minutes de jeu**, des **Cartes Spell** apparaissent **périodiquement** sur la carte, à des positions aléatoires entre **0 et 300 blocs** du **0 0**. Chaque carte est posée au sol et marquée par un **texte flottant** indiquant son nom, visible depuis plusieurs blocs.
 
-## Cartes Spell disponibles
+Pour ramasser une carte, il suffit de **marcher dessus**. Elle entre alors dans l'inventaire du joueur. Pour l'utiliser, il faut faire un **clic droit** avec la carte en main : l'effet se déclenche et la carte disparaît.
 
-- **Risque-Tout** _(commun)_
-  > +1♥ permanent. **Mais −2♥** courants immédiats.
+Chaque carte est **à usage unique**.
 
-- **Gazelle** _(commun)_
-  > **Speed I** pendant 30 secondes.
+## Cartes Spell
 
-- **Predator** _(commun)_
-  > Boussole pisteur sur un joueur visible dans un rayon de 30 blocs pendant **3 minutes**.
+- **Risque-Tout**
+  > **+1♥ permanent**.
 
-- **Plot of Beach** _(commun)_
-  > Convertit la carte en **5 carottes d'or**.
+- **Gazelle**
+  > **Speed I** pendant **2 minutes**.
 
-- **Attaque-Surprise** _(rare)_
-  > Le **prochain coup** infligé inflige **+5♥** de dégâts.
+- **Predator**
+  > Une **boussole** qui permet de traquer **n'importe quel joueur** pendant **3 minutes**. Activable une fois par partie.
 
-- **Accompagnant** _(rare)_
-  > Le joueur **annule sa fall damage** pendant 1 minute et reçoit **Speed I**.
+- **Plot of Beach**
+  > Convertit la carte en **3 pommes en or**.
 
-- **Healing Touch** _(rare)_
-  > Soigne **6♥** instantanément.
+- **Attaque-Surprise**
+  > En clic droit en visant un joueur, le joueur courant se **téléporte derrière la cible**.
 
-- **Magnetic Force** _(rare)_
-  > Tire un joueur visé à **20 blocs** vers soi.
+- **Accompagnant**
+  > Annule la **fall damage** du joueur pendant **2 minutes**.
 
-- **Time Stop** _(ultra-rare)_
-  > Tous les ennemis à moins de **10 blocs** sont gelés (Slow I, Jump Boost négatif) pendant **3 secondes**.
+- **Healing Touch**
+  > Soigne **3♥** instantanément.
 
-- **Eye of Reality** _(ultra-rare)_
-  > Révèle le rôle de **2 joueurs aléatoires** vivants.
+- **Magnetic Force**
+  > **Tire** le joueur visé vers le joueur courant.
 
-- **Phantom** _(ultra-rare)_
-  > **Invisibility** pendant 20 secondes (l'armure reste visible).
-  > **Contrepartie** : le joueur subit **Slowness I** pendant la durée.
+- **Eye of Reality**
+  > Révèle le **rôle d'un joueur** au choix.
 
-## Particularités
-
-- Une **Carte Spell** ne peut être utilisée qu'**une seule fois**. Elle disparaît après usage.
-- Les Cartes peuvent être **données** à d'autres joueurs (drop manuel) ou **vendues** à un Cartier au [Marché de York New](york-new.md) entre 800 et 2000 Jennys.
-- Le **tirage** est aléatoire et indépendant pour chaque joueur. Deux joueurs peuvent recevoir la même carte.
-
-## Couples Greed Island
-
-À l'activation de l'événement, une option permet de tirer aléatoirement **un couple de 2 joueurs** parmi les joueurs vivants, peu importe leur camp. Les deux partagent leur **vie maximale**.
-
-- Si l'un d'eux subit **−4♥**, l'autre subit **−2♥** de dégâts contagieux.
-- Si l'un d'eux meurt, l'autre subit **−5♥** immédiats.
-- Le couple est annoncé publiquement.
+- **Phantom**
+  > **Invisibility** pendant **20 secondes** (l'armure reste visible).

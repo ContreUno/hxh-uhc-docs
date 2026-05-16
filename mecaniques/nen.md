@@ -1,43 +1,90 @@
 # Le Nen
 
-Le **Nen** est l'énergie vitale au cœur du mode de jeu. À l'annonce des rôles, chaque joueur se voit attribuer un **type de Nen** parmi les six existants, indépendamment de son rôle.
+Le **Nen** est l'énergie vitale au cœur du mode de jeu. Au début de la partie, **aucun joueur ne dispose de son Nen** : son rôle est connu mais ses passifs et actifs sont **désactivés** tant que le Nen n'est pas éveillé.
 
-Le type de Nen est consultable à n'importe quel moment avec la commande `/hxh nen`. Il ne donne **pas d'effet de potion** : il modifie directement le comportement du joueur en combat ou son équipement de départ.
+## Éveil du Nen
 
-## Attribution
+Pour éveiller son Nen, un joueur doit infliger un certain nombre de **coups d'épée** à d'autres joueurs. Le nombre exact dépend du **niveau du personnage** :
 
-Cinq types sont **tirés aléatoirement** parmi les joueurs : Renforcement, Émission, Manipulation, Transformation, Matérialisation.
+- **10 coups** — personnages d'élite : **Netero**, **Meruem**, **Chrollo**, **Silva**, **Zeno**, **Hisoka**, **Pitou**, **Bisky**.
+- **20 coups** — personnages confirmés : **Kurapika**, **Feitan**, **Razor**, **Genthru**, **Phinks**, **Nobunaga**, **Pouf**, **Youpi**, **Illumi**, **Wing**, **Morel**, **Knov**, **Shoot**, **Knuckle**.
+- **30 coups** — personnages intermédiaires : **Gon**, **Killua**, **Pakunoda**, **Shalnark**, **Machi**, **Shizuku**, **Kalluto**.
+- **40 coups** — apprentis : **Leorio**, **Zushi**.
 
-Le type **Spécialisation** est réservé aux rôles canoniques de la série : **Kurapika**, **Chrollo**, **Pakunoda** et **Meruem**. Les autres joueurs ne peuvent pas l'obtenir.
+À l'éveil, le joueur entre au palier **Ten** et obtient son **type de Nen** ainsi que les premiers effets de son rôle.
 
-## Types
+## Types de Nen
 
-- **Renforcement**
-  > Les coups au corps à corps infligent **+0.5♥** de dégâts.
-  > **Contrepartie** : les dégâts subis à distance (flèche, projectile) sont augmentés de **+0.5♥**.
+Chaque rôle a un **type de Nen attitré** correspondant à celui du manga :
 
-- **Émission**
-  > Les flèches et projectiles infligent **+0.5♥** de dégâts.
-  > **Contrepartie** : les dégâts subis au corps à corps sont augmentés de **+0.5♥**.
+- **Renforcement** : Gon, Bisky, Nobunaga, Phinks, Silva, Netero.
+- **Émission** : Leorio, Knuckle, Zushi, Razor.
+- **Transformation** : Killua, Feitan, Machi, Zeno, Hisoka, Genthru, Youpi.
+- **Manipulation** : Shalnark, Illumi, Kalluto, Pouf.
+- **Matérialisation** : Shoot, Morel, Knov, Shizuku, Kurapika.
+- **Spécialisation** : Chrollo, Pakunoda, Meruem, Pitou.
 
-- **Manipulation**
-  > Tous les **cooldowns** des actifs de rôle sont réduits de **15%**.
-  > **Contrepartie** : à chaque utilisation d'un actif, le joueur subit **Slowness I** pendant **5 secondes**.
+## Paliers et effets
 
-- **Transformation**
-  > Lorsqu'un joueur encaisse un coup, il obtient **Resistance I** pendant **2 secondes** (anti-combo).
-  > **Contrepartie** : il ne peut pas régénérer naturellement pendant la durée de l'effet.
+Une fois éveillé, le Nen évolue à travers **3 paliers**. Chaque palier améliore l'effet passif du type de Nen. Pour passer d'un palier au suivant, le joueur doit infliger des **coups d'épée supplémentaires**.
 
-- **Matérialisation**
-  > Le joueur obtient à l'annonce des rôles une **épée en fer Sharpness I**.
-  > **Contrepartie** : il ne peut pas enchanter d'épée pour le reste de la partie.
+| Palier | Coups (depuis Ten) |
+|---|---|
+| **Ten** | 0 (éveil) |
+| **Ren** | +30 coups |
+| **Hatsu** | +50 coups (soit +80 depuis l'éveil) |
 
-- **Spécialisation**
-  > Une fois par partie, le joueur peut **copier le type de Nen** d'un autre joueur en visant à 5 blocs avec `/hxh copy [Pseudo]`. Cooldown unique.
-  > **Contrepartie** : la copie remplace définitivement son type de Nen actuel.
+### Renforcement
+
+| Palier | Effet |
+|---|---|
+| Ten | Coups au corps à corps : **+0.5♥** de dégâts. |
+| Ren | Coups au corps à corps : **+1♥** de dégâts. |
+| Hatsu | Coups au corps à corps : **+1.5♥** de dégâts. |
+
+### Émission
+
+| Palier | Effet |
+|---|---|
+| Ten | Projectiles : **+0.5♥** de dégâts. |
+| Ren | Projectiles : **+1♥** de dégâts. |
+| Hatsu | Projectiles : **+1.5♥** de dégâts. |
+
+### Transformation
+
+| Palier | Effet |
+|---|---|
+| Ten | Après un coup encaissé : **Resistance I** pendant **1 seconde**. |
+| Ren | Après un coup encaissé : **Resistance I** pendant **2 secondes**. |
+| Hatsu | Après un coup encaissé : **Resistance I** pendant **3 secondes**. |
+
+### Manipulation
+
+| Palier | Effet |
+|---|---|
+| Ten | Cooldowns des actifs de rôle réduits de **5%**. |
+| Ren | Cooldowns des actifs de rôle réduits de **10%**. |
+| Hatsu | Cooldowns des actifs de rôle réduits de **15%**. |
+
+### Matérialisation
+
+| Palier | Effet |
+|---|---|
+| Ten | Reçoit immédiatement une **épée en fer Sharpness I**. |
+| Ren | Reçoit immédiatement **1 lingot de fer**. |
+| Hatsu | Reçoit immédiatement **1 lingot d'or**. |
+
+### Spécialisation
+
+| Palier | Effet |
+|---|---|
+| Ten | **+1♥ permanent**. |
+| Ren | **+1♥ permanent** supplémentaire. |
+| Hatsu | **+1♥ permanent** supplémentaire et révèle le type de Nen des joueurs à moins de **5 blocs**. |
 
 ## Particularités
 
-- Le type de Nen est annoncé **en privé** à chaque joueur dès l'annonce des rôles.
-- Il n'est pas affecté par les pouvoirs de **conversion** d'autres rôles.
-- Il n'est **jamais révélé publiquement** sauf par la **Voyante** du [Marché de York New](york-new.md).
+- Tant que le Nen n'est pas éveillé, les **passifs et actifs** du rôle sont **désactivés** ; seuls les éléments d'identité (camp, liste de la Brigade, etc.) sont actifs.
+- Les coups d'épée infligés à des **PNJ** ne comptent pas.
+- Le compteur de coups est consultable avec la commande `/hxh nen`.
+- Le type de Nen est annoncé en privé à l'éveil. Il n'est jamais révélé publiquement.
