@@ -1,0 +1,12 @@
+{
+  "title": "HxH UHC",
+  "description": "Documentation du mode de jeu UHC Hunter x Hunter",
+  "language": "fr",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "styles": {
+    "website": "styles/website.css"
+  }
+}
