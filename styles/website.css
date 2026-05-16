@@ -1,0 +1,170 @@
+/* HxH UHC - thème sombre proche UHCWorld */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono&display=swap');
+
+:root {
+  --bg-0: #0f1115;
+  --bg-1: #161922;
+  --bg-2: #1c2030;
+  --accent: #e0b34a;
+  --accent-2: #c45a4d;
+  --text: #d7d9e0;
+  --text-dim: #8a8d99;
+  --border: #2a2e3e;
+}
+
+body, .book {
+  font-family: 'Inter', sans-serif !important;
+  background: var(--bg-0) !important;
+  color: var(--text) !important;
+}
+
+.book-body { background: transparent !important; }
+
+.book-body .page-wrapper .page-inner {
+  max-width: 860px !important;
+  padding: 36px 32px !important;
+}
+
+.book-summary {
+  background: var(--bg-1) !important;
+  border-right: 1px solid var(--border) !important;
+  color: var(--text-dim) !important;
+}
+
+.book-summary ul.summary li a {
+  color: var(--text-dim) !important;
+  padding: 6px 16px !important;
+  font-size: 13px !important;
+}
+
+.book-summary ul.summary li a:hover {
+  color: var(--accent) !important;
+  background: rgba(224, 179, 74, 0.06) !important;
+  text-decoration: none !important;
+}
+
+.book-summary ul.summary li.active > a {
+  color: var(--accent) !important;
+  background: rgba(224, 179, 74, 0.1) !important;
+  border-left: 2px solid var(--accent) !important;
+  font-weight: 600 !important;
+}
+
+.book-summary ul.summary li.header {
+  color: var(--accent-2) !important;
+  font-size: 11px !important;
+  letter-spacing: 1.5px !important;
+  text-transform: uppercase !important;
+  padding: 16px 16px 4px !important;
+  font-weight: 700 !important;
+}
+
+.book-header {
+  background: var(--bg-1) !important;
+  border-bottom: 1px solid var(--border) !important;
+}
+
+.book-header h1, .book-header h1 a { color: var(--text) !important; }
+
+.markdown-section {
+  color: var(--text) !important;
+  font-size: 15px !important;
+  line-height: 1.65 !important;
+}
+
+.markdown-section h1 {
+  color: var(--text) !important;
+  border-bottom: 2px solid var(--accent) !important;
+  padding-bottom: 8px !important;
+  font-size: 30px !important;
+  font-weight: 700 !important;
+}
+
+.markdown-section h2 {
+  color: var(--accent) !important;
+  font-size: 22px !important;
+  border-bottom: 1px solid var(--border) !important;
+  padding-bottom: 6px !important;
+  margin-top: 1.8em !important;
+}
+
+.markdown-section h3 {
+  color: var(--text) !important;
+  font-size: 17px !important;
+  font-weight: 600 !important;
+  margin-top: 1.4em !important;
+}
+
+.markdown-section a {
+  color: var(--accent) !important;
+  text-decoration: none !important;
+}
+
+.markdown-section a:hover { text-decoration: underline !important; }
+
+.markdown-section strong { color: var(--accent) !important; }
+
+.markdown-section blockquote {
+  border-left: 3px solid var(--accent) !important;
+  background: rgba(224, 179, 74, 0.05) !important;
+  margin: 12px 0 !important;
+  padding: 8px 16px !important;
+  color: var(--text) !important;
+}
+
+.markdown-section blockquote p { margin: 4px 0 !important; }
+
+.markdown-section table {
+  background: var(--bg-1) !important;
+  border-collapse: collapse !important;
+  border: 1px solid var(--border) !important;
+}
+
+.markdown-section table th {
+  background: var(--bg-2) !important;
+  color: var(--accent) !important;
+  border-bottom: 1px solid var(--border) !important;
+  padding: 8px 14px !important;
+}
+
+.markdown-section table td {
+  border: none !important;
+  border-bottom: 1px solid var(--border) !important;
+  padding: 8px 14px !important;
+}
+
+.markdown-section code {
+  background: var(--bg-2) !important;
+  color: var(--accent) !important;
+  font-family: 'JetBrains Mono', monospace !important;
+  font-size: 13px !important;
+  padding: 1px 6px !important;
+  border-radius: 3px !important;
+}
+
+.markdown-section pre {
+  background: var(--bg-1) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 4px !important;
+}
+
+.markdown-section ul li, .markdown-section ol li { color: var(--text) !important; }
+
+.markdown-section ul li::marker { color: var(--accent); }
+
+.markdown-section hr {
+  border: none !important;
+  border-top: 1px solid var(--border) !important;
+  margin: 32px 0 !important;
+}
+
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: var(--bg-0); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--accent); }
+
+#book-search-input {
+  background: var(--bg-2) !important;
+  border: 1px solid var(--border) !important;
+  color: var(--text) !important;
+}
