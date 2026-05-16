@@ -17,4 +17,5 @@
   > La garde Iai a une durée maximale de **30 secondes**.
 
 - **Domaine Sphérique** - `/hxh domaine` - _1x/partie_
-  > À partir de **40 minutes de jeu** et tant qu'il est en garde Iai, sa zone d'effet passe à **6 blocs** et inflige **15♥** au lieu de 10♥.
+  > À partir de **40 minutes de jeu** et tant qu'il est en garde Iai, sa zone d'effet passe à **6 blocs** et inflige **12♥** au lieu de 10♥.
+  > **Contrepartie** : après l'utilisation, Nobunaga ne peut plus utiliser **Iai** pendant 5 minutes (et perd Resistance).

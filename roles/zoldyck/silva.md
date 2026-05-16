@@ -22,4 +22,5 @@
   > À chaque kill, il obtient **Speed II** et **Strength I** pendant **1 minute**.
 
 - **Coup Mortel** - `/hxh coup-mortel` - _1x/partie_
-  > À partir de **45 minutes de jeu**, son prochain coup au corps à corps par derrière inflige des dégâts **multipliés par 3** (en plus du bonus passif de 50%, soit ×4.5 total).
+  > À partir de **45 minutes de jeu**, son prochain coup au corps à corps par derrière inflige des dégâts **multipliés par 2** (en plus du bonus passif de 50%, soit ×3 total).
+  > **Contrepartie** : Silva subit **Slowness II** et **Mining Fatigue II** pendant 90 secondes (la frappe parfaite épuise).

@@ -17,16 +17,17 @@ Les noms sont thématiques (Aoshi, Pyrobora, Sanken, Mirei) et n'ont pas d'impac
 Pour effectuer un rituel, il faut être **debout sur le piédestal** (à moins d'1 bloc).
 
 - **Prière** - `Sneak ≥30s` - _1x/Statue/partie_
-  > Le joueur obtient **+20 XP de Nen**. La XP de Nen permet d'accéder plus rapidement aux paliers de capacité de son rôle _(voir [Le Nen](nen.md))_.
+  > Le joueur regagne **2♥** instantanément et obtient **Regeneration I** pendant 10 secondes.
 
 - **Prononcer un Vœu** - `/hxh voeu` - _1x/partie_
   > Ouvre la GUI des Vœux disponibles pour le joueur. _Voir [Vœux](voeux.md)_.
 
 - **Bénédiction Mineure** - `/hxh blessing minor` - _1x/Statue/partie_
-  > Le joueur dépense **1000 Jennys** et reçoit **+50 XP de Nen** immédiatement.
+  > Le joueur dépense **2000 Jennys** et obtient **Strength I** pendant 5 minutes.
 
 - **Bénédiction Majeure** - `/hxh blessing major` - _1x/joueur/partie_
-  > Le joueur dépense **3000 Jennys** et reçoit **+200 XP de Nen** ainsi que **+1♥** temporaire pendant 10 minutes.
+  > Le joueur dépense **5000 Jennys** et regagne **toutes ses charges** de son actif principal.
+  > **Contrepartie** : il subit **Slowness II** pendant 60 secondes (épuisement rituel).
 
 ## Statue Sacrée
 

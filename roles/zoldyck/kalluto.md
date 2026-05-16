@@ -20,4 +20,5 @@
   > Il pose une **tuile piégée** au sol. Le premier joueur qui marche dessus subit **2♥** de dégâts et est **propulsé** à 5 blocs de hauteur. La tuile dure **30 secondes**.
 
 - **Tempête de Papier** - `/hxh tempete` - _1x/partie_
-  > À partir de **45 minutes de jeu**, il déclenche une AoE de **6 blocs** autour de lui. Tous les joueurs ennemis subissent **5♥** de dégâts et **Slow III** pendant **5 secondes**.
+  > À partir de **45 minutes de jeu**, il déclenche une AoE de **5 blocs** autour de lui. Tous les joueurs ennemis subissent **4♥** de dégâts et **Slow II** pendant **5 secondes**.
+  > **Contrepartie** : Kalluto consomme **tous** ses papiers restants (perd l'usage de **Danse** et **Origami** pour le reste de la partie).

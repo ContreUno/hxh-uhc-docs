@@ -19,4 +19,5 @@
   > À l'atterrissage d'une chute de plus de **5 blocs**, tous les joueurs ennemis dans un rayon de **4 blocs** subissent **3♥** de dégâts et **Slow II** pendant **5 secondes**.
 
 - **Dragon Apex** - `/hxh apex` - _1x/partie_
-  > À partir de **45 minutes de jeu** et à plus de **30 blocs de hauteur**, il déclenche un Plongeon Dragon **amélioré** : zone de **8 blocs** et **8♥** de dégâts.
+  > À partir de **45 minutes de jeu** et à plus de **30 blocs de hauteur**, il déclenche un Plongeon Dragon **amélioré** : zone de **6 blocs** et **6♥** de dégâts.
+  > **Contrepartie** : Zeno subit **Slowness III** pendant 30 secondes (atterrissage brutal).

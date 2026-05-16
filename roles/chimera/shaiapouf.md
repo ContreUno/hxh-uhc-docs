@@ -10,8 +10,8 @@
 - **Garde Royale**
   > Lorsque **Meruem** descend sous **50% de sa vie**, Shaiapouf en est notifié immédiatement, peu importe la distance.
 
-- **Slow Falling**
-  > Il bénéficie en permanence de l'effet **Slow Falling** et **+1♥ permanent**.
+- **Détection Royale**
+  > Il connaît la **position exacte** de **Meruem** à n'importe quel moment de la partie via la commande `/hxh roi`.
 
 ## Actifs
 

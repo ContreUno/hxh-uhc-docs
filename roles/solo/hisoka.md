@@ -19,7 +19,8 @@ Hisoka gagne s'il **tue 3 joueurs** ayant chacun **au moins 18♥** de vie au mo
 ## Actifs
 
 - **Bungee Gum** - `Canne à pêche, Clic droit` - _1x/2min_
-  > Il **agrippe** un joueur à **10 blocs** maximum et le **tire violemment** vers lui.
+  > Il **agrippe** un joueur à **10 blocs** maximum et le **tire violemment** vers lui (knockback inversé).
+  > **Contrepartie** : Hisoka ne peut pas attaquer pendant **3 secondes** après l'utilisation (re-concentration).
 
 - **Texture Surprise** - `Sneak + Clic droit avec papier` - _3x/partie_
   > Il prend le nametag du **dernier joueur tué** de la partie pendant **60 secondes**.

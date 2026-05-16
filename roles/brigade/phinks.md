@@ -20,4 +20,5 @@ Il est nécessairement de type de Nen **Renforcement**.
   > À **7 Rotations**, les dégâts sont multipliés par **3.1**.
 
 - **Ripper Cyclotron** - `/hxh ripper` - _1x/partie_
-  > À partir de **45 minutes de jeu** et avec **7 Rotations**, son prochain coup au corps à corps inflige une **AoE** dans un rayon de **5 blocs** devant lui. Chaque joueur touché subit **8♥** de dégâts et est repoussé.
+  > À partir de **45 minutes de jeu** et avec **7 Rotations**, son prochain coup au corps à corps inflige une **AoE** dans un rayon de **4 blocs** devant lui. Chaque joueur touché subit **7♥** de dégâts et est repoussé.
+  > **Contrepartie** : Phinks subit **Slowness III** pendant 30 secondes (le bras est démonté).

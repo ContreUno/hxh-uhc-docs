@@ -8,7 +8,8 @@
   > Il connaît l'identité de **Zushi** dès l'annonce des rôles (si Zushi est en partie). Tant que Wing est vivant, Zushi gagne **+50% XP de Nen**.
 
 - **Aura du Maître**
-  > Tous les Hunters dans un rayon de **8 blocs** de lui bénéficient de **Strength I** et **Regeneration I**.
+  > Tous les Hunters dans un rayon de **8 blocs** de lui bénéficient de **Strength I**.
+  > **Contrepartie** : Wing ne bénéficie pas lui-même de l'aura et subit **Weakness I** en permanence (il enseigne, il ne combat pas).
 
 ## Actifs
 

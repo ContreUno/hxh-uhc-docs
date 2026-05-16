@@ -13,8 +13,9 @@
 ## Actifs
 
 - **Vraie Forme** - `/hxh vraie-forme` - _1x/partie_
-  > Elle révèle sa Vraie Forme. Pour les **5 minutes** qui suivent, elle obtient **Strength II**, **Resistance I** et **Regeneration I**. Sa **Forme Cachée** est définitivement désactivée.
-  > Activable manuellement ou automatiquement à sa **première mort** (elle ressuscite à pleine vie avec les effets ci-dessus).
+  > Elle révèle sa Vraie Forme. Pour les **3 minutes** qui suivent, elle obtient **Strength II** et **Resistance I**. Sa **Forme Cachée** est définitivement désactivée.
+  > Activable manuellement ou automatiquement à sa **première mort** (elle ressuscite à **10♥** avec les effets ci-dessus).
+  > **Contrepartie** : à la fin de la durée, elle subit **Slowness II** et **Weakness I** pendant 90 secondes.
 
 - **Cosmos** - `Clic droit` - _2x/partie_
   > Elle inflige **+2♥** de dégâts sur son prochain coup au corps à corps.

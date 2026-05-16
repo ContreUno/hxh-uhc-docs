@@ -21,3 +21,4 @@ Razor gagne s'il invoque **les 14 Saints** au cours de la partie. Chaque invocat
 
 - **Invocation d'un Saint** - `Clic droit avec Sceptre` - _14x/partie, 1x/3min_
   > Il invoque un **ArmorStand-Saint** à sa position. L'ArmorStand porte le nametag « Saint de Razor » et dure **60 secondes**. Consomme 1 charge.
+  > **Contrepartie** : à chaque invocation, Razor subit **Weakness I** pendant 30 secondes (donne son énergie au Saint).

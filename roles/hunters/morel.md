@@ -16,4 +16,5 @@
   > Il pose un **ArmorStand-leurre** à sa position. L'ArmorStand porte son nametag et son casque. Il disparaît automatiquement après **30 secondes**.
 
 - **Brume Massive** - `/hxh brume` - _1x/partie_
-  > À partir de **40 minutes de jeu**, il crée une zone de fumée de **12 blocs de rayon** autour de lui pendant **20 secondes**. Les joueurs dans la zone subissent **Blindness III** et **Slow II**.
+  > À partir de **40 minutes de jeu**, il crée une zone de fumée de **10 blocs de rayon** autour de lui pendant **15 secondes**. Les joueurs **ennemis** dans la zone subissent **Blindness II** et **Slow II**.
+  > **Contrepartie** : Morel lui-même subit **Blindness I** dans sa propre fumée et ne peut pas attaquer pendant la durée.

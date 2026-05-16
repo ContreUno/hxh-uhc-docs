@@ -19,7 +19,8 @@
 ## Actifs
 
 - **Domination** - `/hxh domination` - _1x/partie_
-  > À partir de **45 minutes de jeu**, il obtient **Strength III**, **Resistance II** et **Speed I** pendant **1 minute**. Pendant cette durée, son **Aura Royale** s'étend à **16 blocs**.
+  > À partir de **45 minutes de jeu**, il obtient **Strength II** et **Resistance I** pendant **45 secondes**. Pendant cette durée, son **Aura Royale** s'étend à **12 blocs**.
+  > **Contrepartie** : à la fin de la durée, il subit **Slowness II** et **Mining Fatigue II** pendant 60 secondes.
 
 - **Photons** - `Clic droit` - _3x/partie, 1x/10min_
   > Il tire un rayon de Nen en ligne droite sur **15 blocs**. Le premier joueur touché subit **5♥** de dégâts.

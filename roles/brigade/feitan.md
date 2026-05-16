@@ -18,4 +18,5 @@
   > Le compteur de Douleur est remis à zéro.
 
 - **Soleil Cramoisi** - `/hxh cramoisi` - _1x/partie_
-  > À partir de **45 minutes de jeu** et lorsque Feitan est en dessous de **8♥** de vie, il crée une boule de soleil au-dessus de lui. Tous les joueurs dans un rayon de **10 blocs** subissent **8♥** de dégâts et **Wither II** pendant **20 secondes**.
+  > À partir de **45 minutes de jeu** et lorsque Feitan est en dessous de **8♥** de vie, il crée une boule de soleil au-dessus de lui. Tous les joueurs **ennemis** dans un rayon de **8 blocs** subissent **5♥** de dégâts et **Wither I** pendant **10 secondes**.
+  > **Contrepartie** : Feitan subit lui-même **3♥** de dégâts et reste **enflammé** pendant 5 secondes (il brûle aussi).

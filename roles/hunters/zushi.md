@@ -13,17 +13,18 @@
 - **Croissance**
   > Toutes les **10 minutes de jeu**, il gagne **+1♥ permanent**. Le cumul est plafonné à **+8♥** (soit 14 cœurs au total).
 
-- **Saturation**
-  > Il ne perd jamais de **points de faim**.
+- **Endurance d'Enfant**
+  > Sa **vitesse de course** n'est pas affectée par la **faim** (peut sprinter à 0 point de faim).
 
 ## Héritage
 
 À la **mort** de Wing, Zushi hérite automatiquement de :
 
 - **Aura du Maître**
-  > Tous les Hunters dans un rayon de **8 blocs** de Zushi bénéficient de **Strength I** et **Regeneration I**.
+  > Tous les Hunters dans un rayon de **8 blocs** de Zushi bénéficient de **Strength I**.
 
 ## Actifs
 
 - **Ryu Naissant** - `/hxh ryu` - _1x/partie_
   > À partir de **45 minutes de jeu**, il obtient **Strength I** permanent et **+2♥** permanents immédiats.
+  > **Contrepartie** : il subit **Slowness I** permanent pour le reste de la partie (la force se paie en mobilité).

@@ -24,4 +24,5 @@ Il est nécessairement de type de Nen **Spécialisation**.
   > Il **change la page active** parmi les 3 actifs volés. La page active correspond à l'actif qu'il peut utiliser à la place du sien.
 
 - **Black Book** - `/hxh book` - _1x/partie_
-  > À partir de **1h de jeu**, il active simultanément les **3 pages volées** pendant **45 secondes**. Pendant cette durée, il peut utiliser chacun des 3 actifs **une fois**.
+  > À partir de **1h de jeu**, il active simultanément les **3 pages volées** pendant **30 secondes**. Pendant cette durée, il peut utiliser chacun des 3 actifs **une fois**.
+  > **Contrepartie** : à la fin de la durée, il **perd définitivement** ses 3 pages volées et subit **Weakness II** pendant 90 secondes.

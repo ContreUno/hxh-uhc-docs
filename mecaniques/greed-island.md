@@ -20,7 +20,7 @@
   > Le **prochain coup** infligé inflige **+5♥** de dégâts.
 
 - **Accompagnant** _(rare)_
-  > **Slow Falling** et **double saut** pendant 1 minute.
+  > Le joueur **annule sa fall damage** pendant 1 minute et reçoit **Speed I**.
 
 - **Healing Touch** _(rare)_
   > Soigne **6♥** instantanément.
@@ -35,7 +35,8 @@
   > Révèle le rôle de **2 joueurs aléatoires** vivants.
 
 - **Phantom** _(ultra-rare)_
-  > **Invisibility** pendant 30 secondes et déplacement silencieux.
+  > **Invisibility** pendant 20 secondes (l'armure reste visible).
+  > **Contrepartie** : le joueur subit **Slowness I** pendant la durée.
 
 ## Particularités
 

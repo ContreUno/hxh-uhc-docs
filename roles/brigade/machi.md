@@ -19,4 +19,5 @@
   > Sur le lieu exact de mort d'un membre de la Brigade (à moins de 3 blocs), elle peut le **ressusciter** avec **6♥** de vie. Consomme 1 Fil de Nen.
 
 - **Liaison Cosmique** - `/hxh liaison` - _1x/partie_
-  > À partir de **1h de jeu**, sa prochaine résurrection ramène le joueur à **vie complète** et lui octroie **Strength II** pendant 60 secondes.
+  > À partir de **1h de jeu**, sa prochaine résurrection ramène le joueur à **vie complète** et lui octroie **Strength I** pendant 60 secondes.
+  > **Contrepartie** : Machi subit **Slowness II** et **Weakness II** pendant 2 minutes (transfert d'énergie).

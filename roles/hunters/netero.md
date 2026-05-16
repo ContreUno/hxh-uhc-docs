@@ -22,3 +22,4 @@
 
 - **Convocation** - `/hxh convocation` - _1x/partie_
   > À partir de **30 minutes de jeu**, il peut convoquer **tous les Hunters** vivants à sa position. La capacité doit être confirmée par chaque Hunter (chacun peut refuser).
+  > **Contrepartie** : Netero subit **Mining Fatigue II** pendant 90 secondes (la convocation Nen le fatigue).

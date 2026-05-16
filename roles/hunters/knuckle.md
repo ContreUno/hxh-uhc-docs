@@ -16,4 +16,5 @@
   > Tant que la capacité est active, les dégâts de Knuckle au corps à corps sont convertis en dette. Si la capacité est désactivée, les dégâts sont à nouveau **directs** (mais Knuckle perd toute dette accumulée).
 
 - **Encaissement** - `/hxh encaisser [Pseudo]` - _1x/partie_
-  > Knuckle **encaisse immédiatement** la totalité de la dette d'un joueur ciblé sous forme de dégâts directs (max 30♥).
+  > Knuckle **encaisse immédiatement** la totalité de la dette d'un joueur ciblé sous forme de dégâts directs (plafonné à **15♥** au lieu de 30).
+  > **Contrepartie** : il subit lui-même **5♥** de dégâts en retour (la dette se réclame des deux côtés).
